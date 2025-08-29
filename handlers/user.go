@@ -7,8 +7,8 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/sherwin-yu/go/database"
-	"github.com/sherwin-yu/go/models"
+	"github.com/sherwin-yu/go-api/database"
+	"github.com/sherwin-yu/go-api/models"
 )
 
 type UserHandler struct {

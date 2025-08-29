@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/sherwin-yu/go/database"
-	"github.com/sherwin-yu/go/handlers"
+	"github.com/sherwin-yu/go-api/database"
+	"github.com/sherwin-yu/go-api/handlers"
 )
 
 type Server struct {

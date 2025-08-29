@@ -5,7 +5,7 @@ import (
 	"time"
 
 	_ "github.com/lib/pq"
-	"github.com/sherwin-yu/go/models"
+	"github.com/sherwin-yu/go-api/models"
 )
 
 type Database struct {

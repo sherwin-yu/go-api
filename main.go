@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/sherwin-yu/go/config"
-	"github.com/sherwin-yu/go/database"
-	"github.com/sherwin-yu/go/server"
+	"github.com/sherwin-yu/go-api-api/config"
+	"github.com/sherwin-yu/go-api/database"
+	"github.com/sherwin-yu/go-api/server"
 )
 
 func main() {
